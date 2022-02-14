@@ -1,0 +1,15 @@
+
+.first-header{
+    background-color:#01896A;
+
+
+   
+    /* background-color:#045341; */
+}
+.round{
+    border-radius: 50px;
+}
+.custom-btn{
+    border-radius: 50px;
+    background-color:#f83200;
+}
